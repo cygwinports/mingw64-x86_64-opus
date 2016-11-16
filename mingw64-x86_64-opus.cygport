@@ -2,7 +2,7 @@ CROSS_HOST="x86_64-w64-mingw32"
 inherit cross
 
 NAME="mingw64-x86_64-opus"
-VERSION=1.0.3
+VERSION=1.1.3
 RELEASE=1
 CATEGORY="Devel"
 SUMMARY="Opus interactive audio codec for Win64 toolchain"
